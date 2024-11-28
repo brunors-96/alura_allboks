@@ -7,6 +7,10 @@ O AllBooks é uma loja virtual que vende livros da Casa do Código.
 
 Essa é ma API Rest mockada, utilizando json-server e JWT.
 
+# Alteracao da atividade
+
+Essa foi a alteracao criada por mim
+ 
 ## 🛠️ Instalação
 
 ```bash
